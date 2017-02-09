@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/xtpor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://xtpor.tk
+  * I am xtpor (https://keybase.io/xtpor) on keybase.
+  * I have a public key ASBazCqV9B0MxOLJIrlwGEsmuSfnJydJCWzjlV8aJcc3Iwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205acc2a95f41d0cc4e2c922b970184b26b927e7272749096ce3955f1a25c737230a",
+            "host": "keybase.io",
+            "kid": "01205acc2a95f41d0cc4e2c922b970184b26b927e7272749096ce3955f1a25c737230a",
+            "uid": "460c6b067e923004b01d91c6732a6c19",
+            "username": "xtpor"
+        },
+        "service": {
+            "hostname": "xtpor.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486662444,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486662434,
+        "hash": "f621086929e2917de9aa81bacac411058ec2dbbd2eb71239b34d021ea7d5ee25b764fea188b4006cf4fc4e89a5ff8d26ec178472c343ed184c1774720b0600db",
+        "seqno": 860420
+    },
+    "prev": "6e8e9483a5d8b4ca362615b700d97538c1e15ffaaceab992bd3b12e0c9b22b15",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWswqlfQdDMTiySK5cBhLJrkn5ycnSQls45VfGiXHNyMKp3BheWxvYWTFAu17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWFjYzJhOTVmNDFkMGNjNGUyYzkyMmI5NzAxODRiMjZiOTI3ZTcyNzI3NDkwOTZjZTM5NTVmMWEyNWM3MzcyMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWFjYzJhOTVmNDFkMGNjNGUyYzkyMmI5NzAxODRiMjZiOTI3ZTcyNzI3NDkwOTZjZTM5NTVmMWEyNWM3MzcyMzBhIiwidWlkIjoiNDYwYzZiMDY3ZTkyMzAwNGIwMWQ5MWM2NzMyYTZjMTkiLCJ1c2VybmFtZSI6Inh0cG9yIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ4dHBvci50ayIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODY2NjI0NDQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NjY2MjQzNCwiaGFzaCI6ImY2MjEwODY5MjllMjkxN2RlOWFhODFiYWNhYzQxMTA1OGVjMmRiYmQyZWI3MTIzOWIzNGQwMjFlYTdkNWVlMjViNzY0ZmVhMTg4YjQwMDZjZjRmYzRlODlhNWZmOGQyNmVjMTc4NDcyYzM0M2VkMTg0YzE3NzQ3MjBiMDYwMGRiIiwic2Vxbm8iOjg2MDQyMH0sInByZXYiOiI2ZThlOTQ4M2E1ZDhiNGNhMzYyNjE1YjcwMGQ5NzUzOGMxZTE1ZmZhYWNlYWI5OTJiZDNiMTJlMGM5YjIyYjE1Iiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJAqoxzLWD7i7zeDAL7cqtPlXY5DJtFgAQxotcYMn5X35jjPMKJv186LCJg/uVNOtoFakJi5+jIRFzKCN0mTLwSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCxHWEH+zTi05N8B/7XfJeQdiRnwTWKCJYR4l8wTIk42KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xtpor
+
+==================================================================
